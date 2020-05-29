@@ -1,0 +1,31 @@
+{
+  "pages": {
+    "characters": {
+      "searchBarPlaceholder": "Search for a SW character...",
+      "foundLStarWarsCharacters": "Found Star Wars characters"
+    },
+    "characterDetails": {
+      "name":  "Name",
+      "height": "Height",
+      "mass":  "Mass",
+      "hair_color": "Hair color",
+      "skin_color":  "Skin color",
+      "eye_color": "Eye color",
+      "birth_year":  "Birth year",
+      "gender": "Gender"
+    }
+  },
+  "footer": {
+    "text": "Designed and created with",
+    "author": "Piotr Wiecaszek"
+  },
+  "common": {
+    "back": "Back",
+    "errorOccurred": "Mayday! Mayday! Data not found!",
+    "switchSides": "Switch sides!",
+    "noResults": "No results...",
+    "next": "Next page",
+    "previous": "Previous page",
+    "by": "by"
+  }
+}
