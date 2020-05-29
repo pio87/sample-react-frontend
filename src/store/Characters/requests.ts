@@ -11,7 +11,7 @@ export const getCharacters = (settings: RequestSettings<{ page: number; search: 
 export const getCharacterDetails = (settings: RequestSettings<{ id: string }, {}>): BaseSettings => ({
   query: {
     method: 'get',
-    url: '/people/:id'
+    url: '/people/:id/'
   },
   params: settings.requestParams
 });
