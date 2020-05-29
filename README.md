@@ -2,7 +2,12 @@
 
 This repository is a sample Web application that grabs data from https://swapi.dev/ API.  
 
-Stuff used:
+## Live Demo
+
+https://peter-star-wars-sample.netlify.app/
+
+## Stuff used:
+
 - TypeScript
 - CRA as boilerplate
 - React (with hooks)
